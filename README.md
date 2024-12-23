@@ -67,7 +67,7 @@ npm run deploy
 
 ### Base URL
 ```
-https://sw-api.simplr.sh
+https://sw.simplr.sh
 ```
 
 ### Root Endpoint
@@ -81,56 +81,67 @@ GET /api/root.json
 ```
 # Get all people
 GET /api/people/all.json
+# Example: https://sw.simplr.sh/api/people/all.json
 
 # Get specific person
 GET /api/people/{id}.json
+# Example: https://sw.simplr.sh/api/people/1.json
 ```
 
 #### Films
 ```
 # Get all films
 GET /api/films/all.json
+# Example: https://sw.simplr.sh/api/films/all.json
 
 # Get specific film
 GET /api/films/{id}.json
+# Example: https://sw.simplr.sh/api/films/1.json
 ```
 
 #### Planets
 ```
 # Get all planets
 GET /api/planets/all.json
+# Example: https://sw.simplr.sh/api/planets/all.json
 
 # Get specific planet
 GET /api/planets/{id}.json
+# Example: https://sw.simplr.sh/api/planets/1.json
 ```
 
 #### Species
 ```
 # Get all species
 GET /api/species/all.json
+# Example: https://sw.simplr.sh/api/species/all.json
 
 # Get specific species
 GET /api/species/{id}.json
+# Example: https://sw.simplr.sh/api/species/1.json
 ```
 
 #### Starships
 ```
 # Get all starships
 GET /api/starships/all.json
+# Example: https://sw.simplr.sh/api/starships/all.json
 
 # Get specific starship
 GET /api/starships/{id}.json
+# Example: https://sw.simplr.sh/api/starships/1.json
 ```
 
 #### Vehicles
 ```
 # Get all vehicles
 GET /api/vehicles/all.json
+# Example: https://sw.simplr.sh/api/vehicles/all.json
 
 # Get specific vehicle
 GET /api/vehicles/{id}.json
+# Example: https://sw.simplr.sh/api/vehicles/1.json
 ```
-
 
 
 ## Technology Stack
