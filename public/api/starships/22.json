@@ -1,0 +1,27 @@
+{
+  "name": "Imperial shuttle",
+  "model": "Lambda-class T-4a shuttle",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "240000",
+  "length": "20",
+  "max_atmosphering_speed": "850",
+  "crew": "6",
+  "passengers": "20",
+  "cargo_capacity": "80000",
+  "consumables": "2 months",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "50",
+  "starship_class": "Armed government transport",
+  "pilots": [
+    "https://sw.simplr.sh/api/people/1.json",
+    "https://sw.simplr.sh/api/people/13.json",
+    "https://sw.simplr.sh/api/people/14.json"
+  ],
+  "films": [
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json"
+  ],
+  "created": "2014-12-15T13:04:47.235000Z",
+  "edited": "2014-12-20T21:23:49.900000Z",
+  "url": "https://sw.simplr.sh/api/starships/22.json"
+}

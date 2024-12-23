@@ -1,0 +1,21 @@
+{
+  "name": "Vulture Droid",
+  "model": "Vulture-class droid starfighter",
+  "manufacturer": "Haor Chall Engineering, Baktoid Armor Workshop",
+  "cost_in_credits": "unknown",
+  "length": "3.5",
+  "max_atmosphering_speed": "1200",
+  "crew": "0",
+  "passengers": "0",
+  "cargo_capacity": "0",
+  "consumables": "none",
+  "vehicle_class": "starfighter",
+  "pilots": [],
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "created": "2014-12-19T17:09:53.584000Z",
+  "edited": "2014-12-20T21:30:21.697000Z",
+  "url": "https://sw.simplr.sh/api/vehicles/33.json"
+}

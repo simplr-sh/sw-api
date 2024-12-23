@@ -1,0 +1,22 @@
+{
+  "name": "Wedge Antilles",
+  "height": "170",
+  "mass": "77",
+  "hair_color": "brown",
+  "skin_color": "fair",
+  "eye_color": "hazel",
+  "birth_year": "21BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/22.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json"
+  ],
+  "species": [],
+  "vehicles": ["https://sw.simplr.sh/api/vehicles/14.json"],
+  "starships": ["https://sw.simplr.sh/api/starships/12.json"],
+  "created": "2014-12-12T11:08:06.469000Z",
+  "edited": "2014-12-20T21:17:50.341000Z",
+  "url": "https://sw.simplr.sh/api/people/18.json"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Nute Gunray",
+  "height": "191",
+  "mass": "90",
+  "hair_color": "none",
+  "skin_color": "mottled green",
+  "eye_color": "red",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/18.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": ["https://sw.simplr.sh/api/species/11.json"],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-19T17:05:57.357000Z",
+  "edited": "2014-12-20T21:17:50.377000Z",
+  "url": "https://sw.simplr.sh/api/people/33.json"
+}

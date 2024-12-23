@@ -1,0 +1,20 @@
+{
+  "name": "Muun",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "grey, white",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "100",
+  "homeworld": "https://sw.simplr.sh/api/planets/57.json",
+  "language": "Muun",
+  "people": ["https://sw.simplr.sh/api/people/77.json"],
+  "films": [
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "created": "2014-12-20T17:58:19.088000Z",
+  "edited": "2014-12-20T21:36:42.207000Z",
+  "url": "https://sw.simplr.sh/api/species/34.json"
+}

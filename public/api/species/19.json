@@ -1,0 +1,20 @@
+{
+  "name": "Toong",
+  "classification": "unknown",
+  "designation": "sentient",
+  "average_height": "200",
+  "skin_colors": "grey, green, yellow",
+  "hair_colors": "none",
+  "eye_colors": "orange",
+  "average_lifespan": "unknown",
+  "homeworld": "https://sw.simplr.sh/api/planets/41.json",
+  "language": "Tundan",
+  "people": ["https://sw.simplr.sh/api/people/50.json"],
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "created": "2014-12-20T10:08:36.795000Z",
+  "edited": "2014-12-20T21:36:42.177000Z",
+  "url": "https://sw.simplr.sh/api/species/19.json"
+}

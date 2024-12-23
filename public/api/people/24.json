@@ -1,0 +1,18 @@
+{
+  "name": "Bossk",
+  "height": "190",
+  "mass": "113",
+  "hair_color": "none",
+  "skin_color": "green",
+  "eye_color": "red",
+  "birth_year": "53BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/29.json",
+  "films": ["https://sw.simplr.sh/api/films/2.json"],
+  "species": ["https://sw.simplr.sh/api/species/7.json"],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-15T12:53:49.297000Z",
+  "edited": "2014-12-20T21:17:50.355000Z",
+  "url": "https://sw.simplr.sh/api/people/24.json"
+}

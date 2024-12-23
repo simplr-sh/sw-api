@@ -1,0 +1,22 @@
+{
+  "name": "Plo Koon",
+  "height": "188",
+  "mass": "80",
+  "hair_color": "none",
+  "skin_color": "orange",
+  "eye_color": "black",
+  "birth_year": "22BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/49.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": ["https://sw.simplr.sh/api/species/26.json"],
+  "vehicles": [],
+  "starships": ["https://sw.simplr.sh/api/starships/48.json"],
+  "created": "2014-12-20T10:49:19.859000Z",
+  "edited": "2014-12-20T21:17:50.439000Z",
+  "url": "https://sw.simplr.sh/api/people/58.json"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Besalisk",
+  "classification": "amphibian",
+  "designation": "sentient",
+  "average_height": "178",
+  "skin_colors": "brown",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "75",
+  "homeworld": "https://sw.simplr.sh/api/planets/55.json",
+  "language": "besalisk",
+  "people": ["https://sw.simplr.sh/api/people/71.json"],
+  "films": ["https://sw.simplr.sh/api/films/5.json"],
+  "created": "2014-12-20T17:28:28.821000Z",
+  "edited": "2014-12-20T21:36:42.200000Z",
+  "url": "https://sw.simplr.sh/api/species/31.json"
+}

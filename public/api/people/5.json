@@ -1,0 +1,23 @@
+{
+  "name": "Leia Organa",
+  "height": "150",
+  "mass": "49",
+  "hair_color": "brown",
+  "skin_color": "light",
+  "eye_color": "brown",
+  "birth_year": "19BBY",
+  "gender": "female",
+  "homeworld": "https://sw.simplr.sh/api/planets/2.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": [],
+  "vehicles": ["https://sw.simplr.sh/api/vehicles/30.json"],
+  "starships": [],
+  "created": "2014-12-10T15:20:09.791000Z",
+  "edited": "2014-12-20T21:17:50.315000Z",
+  "url": "https://sw.simplr.sh/api/people/5.json"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Snowspeeder",
+  "model": "t-47 airspeeder",
+  "manufacturer": "Incom corporation",
+  "cost_in_credits": "unknown",
+  "length": "4.5",
+  "max_atmosphering_speed": "650",
+  "crew": "2",
+  "passengers": "0",
+  "cargo_capacity": "10",
+  "consumables": "none",
+  "vehicle_class": "airspeeder",
+  "pilots": [
+    "https://sw.simplr.sh/api/people/1.json",
+    "https://sw.simplr.sh/api/people/18.json"
+  ],
+  "films": ["https://sw.simplr.sh/api/films/2.json"],
+  "created": "2014-12-15T12:22:12Z",
+  "edited": "2014-12-20T21:30:21.672000Z",
+  "url": "https://sw.simplr.sh/api/vehicles/14.json"
+}

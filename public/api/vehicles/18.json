@@ -1,0 +1,21 @@
+{
+  "name": "AT-AT",
+  "model": "All Terrain Armored Transport",
+  "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+  "cost_in_credits": "unknown",
+  "length": "20",
+  "max_atmosphering_speed": "60",
+  "crew": "5",
+  "passengers": "40",
+  "cargo_capacity": "1000",
+  "consumables": "unknown",
+  "vehicle_class": "assault walker",
+  "pilots": [],
+  "films": [
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json"
+  ],
+  "created": "2014-12-15T12:38:25.937000Z",
+  "edited": "2014-12-20T21:30:21.677000Z",
+  "url": "https://sw.simplr.sh/api/vehicles/18.json"
+}

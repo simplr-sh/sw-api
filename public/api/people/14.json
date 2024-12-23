@@ -1,0 +1,25 @@
+{
+  "name": "Han Solo",
+  "height": "180",
+  "mass": "80",
+  "hair_color": "brown",
+  "skin_color": "fair",
+  "eye_color": "brown",
+  "birth_year": "29BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/22.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json"
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [
+    "https://sw.simplr.sh/api/starships/10.json",
+    "https://sw.simplr.sh/api/starships/22.json"
+  ],
+  "created": "2014-12-10T16:49:14.582000Z",
+  "edited": "2014-12-20T21:17:50.334000Z",
+  "url": "https://sw.simplr.sh/api/people/14.json"
+}

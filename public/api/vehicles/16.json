@@ -1,0 +1,21 @@
+{
+  "name": "TIE bomber",
+  "model": "TIE/sa bomber",
+  "manufacturer": "Sienar Fleet Systems",
+  "cost_in_credits": "unknown",
+  "length": "7.8",
+  "max_atmosphering_speed": "850",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "none",
+  "consumables": "2 days",
+  "vehicle_class": "space/planetary bomber",
+  "pilots": [],
+  "films": [
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json"
+  ],
+  "created": "2014-12-15T12:33:15.838000Z",
+  "edited": "2014-12-20T21:30:21.675000Z",
+  "url": "https://sw.simplr.sh/api/vehicles/16.json"
+}

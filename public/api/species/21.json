@@ -1,0 +1,17 @@
+{
+  "name": "Nautolan",
+  "classification": "amphibian",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "green, blue, brown, red",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "70",
+  "homeworld": "https://sw.simplr.sh/api/planets/44.json",
+  "language": "Nautila",
+  "people": ["https://sw.simplr.sh/api/people/53.json"],
+  "films": ["https://sw.simplr.sh/api/films/4.json"],
+  "created": "2014-12-20T10:18:58.610000Z",
+  "edited": "2014-12-20T21:36:42.181000Z",
+  "url": "https://sw.simplr.sh/api/species/21.json"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Jango Fett",
+  "height": "183",
+  "mass": "79",
+  "hair_color": "black",
+  "skin_color": "tan",
+  "eye_color": "brown",
+  "birth_year": "66BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/53.json",
+  "films": ["https://sw.simplr.sh/api/films/5.json"],
+  "species": [],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T16:54:41.620000Z",
+  "edited": "2014-12-20T21:17:50.465000Z",
+  "url": "https://sw.simplr.sh/api/people/69.json"
+}

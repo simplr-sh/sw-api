@@ -1,0 +1,29 @@
+{
+  "name": "Anakin Skywalker",
+  "height": "188",
+  "mass": "84",
+  "hair_color": "blond",
+  "skin_color": "fair",
+  "eye_color": "blue",
+  "birth_year": "41.9BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/1.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": [],
+  "vehicles": [
+    "https://sw.simplr.sh/api/vehicles/44.json",
+    "https://sw.simplr.sh/api/vehicles/46.json"
+  ],
+  "starships": [
+    "https://sw.simplr.sh/api/starships/39.json",
+    "https://sw.simplr.sh/api/starships/59.json",
+    "https://sw.simplr.sh/api/starships/65.json"
+  ],
+  "created": "2014-12-10T16:20:44.310000Z",
+  "edited": "2014-12-20T21:17:50.327000Z",
+  "url": "https://sw.simplr.sh/api/people/11.json"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Jar Jar Binks",
+  "height": "196",
+  "mass": "66",
+  "hair_color": "none",
+  "skin_color": "orange",
+  "eye_color": "orange",
+  "birth_year": "52BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/8.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/5.json"
+  ],
+  "species": ["https://sw.simplr.sh/api/species/12.json"],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-19T17:29:32.489000Z",
+  "edited": "2014-12-20T21:17:50.383000Z",
+  "url": "https://sw.simplr.sh/api/people/36.json"
+}

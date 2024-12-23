@@ -1,0 +1,17 @@
+{
+  "name": "Pau'an",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "grey",
+  "hair_colors": "none",
+  "eye_colors": "black",
+  "average_lifespan": "700",
+  "homeworld": "https://sw.simplr.sh/api/planets/12.json",
+  "language": "Utapese",
+  "people": ["https://sw.simplr.sh/api/people/83.json"],
+  "films": ["https://sw.simplr.sh/api/films/6.json"],
+  "created": "2014-12-20T20:35:06.777000Z",
+  "edited": "2014-12-20T21:36:42.212000Z",
+  "url": "https://sw.simplr.sh/api/species/37.json"
+}

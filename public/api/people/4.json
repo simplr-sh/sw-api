@@ -1,0 +1,23 @@
+{
+  "name": "Darth Vader",
+  "height": "202",
+  "mass": "136",
+  "hair_color": "none",
+  "skin_color": "white",
+  "eye_color": "yellow",
+  "birth_year": "41.9BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/1.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": ["https://sw.simplr.sh/api/starships/13.json"],
+  "created": "2014-12-10T15:18:20.704000Z",
+  "edited": "2014-12-20T21:17:50.313000Z",
+  "url": "https://sw.simplr.sh/api/people/4.json"
+}

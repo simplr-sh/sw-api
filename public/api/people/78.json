@@ -1,0 +1,21 @@
+{
+  "name": "Shaak Ti",
+  "height": "178",
+  "mass": "57",
+  "hair_color": "none",
+  "skin_color": "red, blue, white",
+  "eye_color": "black",
+  "birth_year": "unknown",
+  "gender": "female",
+  "homeworld": "https://sw.simplr.sh/api/planets/58.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": ["https://sw.simplr.sh/api/species/35.json"],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T18:44:01.103000Z",
+  "edited": "2014-12-20T21:17:50.486000Z",
+  "url": "https://sw.simplr.sh/api/people/78.json"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Luminara Unduli",
+  "height": "170",
+  "mass": "56.2",
+  "hair_color": "black",
+  "skin_color": "yellow",
+  "eye_color": "blue",
+  "birth_year": "58BBY",
+  "gender": "female",
+  "homeworld": "https://sw.simplr.sh/api/planets/51.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": ["https://sw.simplr.sh/api/species/29.json"],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T16:45:53.668000Z",
+  "edited": "2014-12-20T21:17:50.455000Z",
+  "url": "https://sw.simplr.sh/api/people/64.json"
+}

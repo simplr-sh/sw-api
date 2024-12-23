@@ -1,0 +1,29 @@
+{
+  "name": "X-wing",
+  "model": "T-65 X-wing",
+  "manufacturer": "Incom Corporation",
+  "cost_in_credits": "149999",
+  "length": "12.5",
+  "max_atmosphering_speed": "1050",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "110",
+  "consumables": "1 week",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "100",
+  "starship_class": "Starfighter",
+  "pilots": [
+    "https://sw.simplr.sh/api/people/1.json",
+    "https://sw.simplr.sh/api/people/9.json",
+    "https://sw.simplr.sh/api/people/18.json",
+    "https://sw.simplr.sh/api/people/19.json"
+  ],
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json"
+  ],
+  "created": "2014-12-12T11:19:05.340000Z",
+  "edited": "2014-12-20T21:23:49.886000Z",
+  "url": "https://sw.simplr.sh/api/starships/12.json"
+}

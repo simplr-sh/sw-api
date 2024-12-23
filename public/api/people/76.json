@@ -1,0 +1,18 @@
+{
+  "name": "Wat Tambor",
+  "height": "193",
+  "mass": "48",
+  "hair_color": "none",
+  "skin_color": "green, grey",
+  "eye_color": "unknown",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/56.json",
+  "films": ["https://sw.simplr.sh/api/films/5.json"],
+  "species": ["https://sw.simplr.sh/api/species/33.json"],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T17:53:52.607000Z",
+  "edited": "2014-12-20T21:17:50.481000Z",
+  "url": "https://sw.simplr.sh/api/people/76.json"
+}

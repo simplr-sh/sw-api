@@ -1,0 +1,24 @@
+{
+  "name": "Gungan",
+  "classification": "amphibian",
+  "designation": "sentient",
+  "average_height": "190",
+  "skin_colors": "brown, green",
+  "hair_colors": "none",
+  "eye_colors": "orange",
+  "average_lifespan": "unknown",
+  "homeworld": "https://sw.simplr.sh/api/planets/8.json",
+  "language": "Gungan basic",
+  "people": [
+    "https://sw.simplr.sh/api/people/36.json",
+    "https://sw.simplr.sh/api/people/37.json",
+    "https://sw.simplr.sh/api/people/38.json"
+  ],
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/5.json"
+  ],
+  "created": "2014-12-19T17:30:37.341000Z",
+  "edited": "2014-12-20T21:36:42.163000Z",
+  "url": "https://sw.simplr.sh/api/species/12.json"
+}

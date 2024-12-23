@@ -1,0 +1,21 @@
+{
+  "name": "Raymus Antilles",
+  "height": "188",
+  "mass": "79",
+  "hair_color": "brown",
+  "skin_color": "light",
+  "eye_color": "brown",
+  "birth_year": "unknown",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/2.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-20T19:49:35.583000Z",
+  "edited": "2014-12-20T21:17:50.493000Z",
+  "url": "https://sw.simplr.sh/api/people/81.json"
+}

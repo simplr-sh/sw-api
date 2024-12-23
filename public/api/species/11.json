@@ -1,0 +1,17 @@
+{
+  "name": "Neimodian",
+  "classification": "unknown",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "grey, green",
+  "hair_colors": "none",
+  "eye_colors": "red, pink",
+  "average_lifespan": "unknown",
+  "homeworld": "https://sw.simplr.sh/api/planets/18.json",
+  "language": "Neimoidia",
+  "people": ["https://sw.simplr.sh/api/people/33.json"],
+  "films": ["https://sw.simplr.sh/api/films/4.json"],
+  "created": "2014-12-19T17:07:31.319000Z",
+  "edited": "2014-12-20T21:36:42.160000Z",
+  "url": "https://sw.simplr.sh/api/species/11.json"
+}

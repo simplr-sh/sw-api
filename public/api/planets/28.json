@@ -1,0 +1,22 @@
+{
+  "name": "unknown",
+  "rotation_period": "0",
+  "orbital_period": "0",
+  "diameter": "0",
+  "climate": "unknown",
+  "gravity": "unknown",
+  "terrain": "unknown",
+  "surface_water": "unknown",
+  "population": "unknown",
+  "residents": [
+    "https://sw.simplr.sh/api/people/20.json",
+    "https://sw.simplr.sh/api/people/23.json",
+    "https://sw.simplr.sh/api/people/29.json",
+    "https://sw.simplr.sh/api/people/32.json",
+    "https://sw.simplr.sh/api/people/75.json"
+  ],
+  "films": [],
+  "created": "2014-12-15T12:25:59.569000Z",
+  "edited": "2014-12-20T20:58:18.466000Z",
+  "url": "https://sw.simplr.sh/api/planets/28.json"
+}

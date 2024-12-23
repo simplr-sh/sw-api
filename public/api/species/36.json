@@ -1,0 +1,17 @@
+{
+  "name": "Kaleesh",
+  "classification": "reptile",
+  "designation": "sentient",
+  "average_height": "170",
+  "skin_colors": "brown, orange, tan",
+  "hair_colors": "none",
+  "eye_colors": "yellow",
+  "average_lifespan": "80",
+  "homeworld": "https://sw.simplr.sh/api/planets/59.json",
+  "language": "Kaleesh",
+  "people": ["https://sw.simplr.sh/api/people/79.json"],
+  "films": ["https://sw.simplr.sh/api/films/6.json"],
+  "created": "2014-12-20T19:45:42.537000Z",
+  "edited": "2014-12-20T21:36:42.210000Z",
+  "url": "https://sw.simplr.sh/api/species/36.json"
+}

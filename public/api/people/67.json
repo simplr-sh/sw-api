@@ -1,0 +1,21 @@
+{
+  "name": "Dooku",
+  "height": "193",
+  "mass": "80",
+  "hair_color": "white",
+  "skin_color": "fair",
+  "eye_color": "brown",
+  "birth_year": "102BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/52.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": ["https://sw.simplr.sh/api/species/1.json"],
+  "vehicles": ["https://sw.simplr.sh/api/vehicles/55.json"],
+  "starships": [],
+  "created": "2014-12-20T16:52:14.726000Z",
+  "edited": "2014-12-20T21:17:50.462000Z",
+  "url": "https://sw.simplr.sh/api/people/67.json"
+}

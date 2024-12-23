@@ -1,0 +1,22 @@
+{
+  "name": "Jabba Desilijic Tiure",
+  "height": "175",
+  "mass": "1,358",
+  "hair_color": "n/a",
+  "skin_color": "green-tan, brown",
+  "eye_color": "orange",
+  "birth_year": "600BBY",
+  "gender": "hermaphrodite",
+  "homeworld": "https://sw.simplr.sh/api/planets/24.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/3.json",
+    "https://sw.simplr.sh/api/films/4.json"
+  ],
+  "species": ["https://sw.simplr.sh/api/species/5.json"],
+  "vehicles": [],
+  "starships": [],
+  "created": "2014-12-10T17:11:31.638000Z",
+  "edited": "2014-12-20T21:17:50.338000Z",
+  "url": "https://sw.simplr.sh/api/people/16.json"
+}

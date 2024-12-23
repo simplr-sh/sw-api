@@ -1,0 +1,22 @@
+{
+  "name": "Boba Fett",
+  "height": "183",
+  "mass": "78.2",
+  "hair_color": "black",
+  "skin_color": "fair",
+  "eye_color": "brown",
+  "birth_year": "31.5BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/10.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json",
+    "https://sw.simplr.sh/api/films/5.json"
+  ],
+  "species": [],
+  "vehicles": [],
+  "starships": ["https://sw.simplr.sh/api/starships/21.json"],
+  "created": "2014-12-15T12:49:32.457000Z",
+  "edited": "2014-12-20T21:17:50.349000Z",
+  "url": "https://sw.simplr.sh/api/people/22.json"
+}

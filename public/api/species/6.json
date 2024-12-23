@@ -1,0 +1,23 @@
+{
+  "name": "Yoda's species",
+  "classification": "mammal",
+  "designation": "sentient",
+  "average_height": "66",
+  "skin_colors": "green, yellow",
+  "hair_colors": "brown, white",
+  "eye_colors": "brown, green, yellow",
+  "average_lifespan": "900",
+  "homeworld": "https://sw.simplr.sh/api/planets/28.json",
+  "language": "Galactic basic",
+  "people": ["https://sw.simplr.sh/api/people/20.json"],
+  "films": [
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json",
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/5.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "created": "2014-12-15T12:27:22.877000Z",
+  "edited": "2014-12-20T21:36:42.148000Z",
+  "url": "https://sw.simplr.sh/api/species/6.json"
+}

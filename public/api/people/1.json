@@ -1,0 +1,29 @@
+{
+  "name": "Luke Skywalker",
+  "height": "172",
+  "mass": "77",
+  "hair_color": "blond",
+  "skin_color": "fair",
+  "eye_color": "blue",
+  "birth_year": "19BBY",
+  "gender": "male",
+  "homeworld": "https://sw.simplr.sh/api/planets/1.json",
+  "films": [
+    "https://sw.simplr.sh/api/films/1.json",
+    "https://sw.simplr.sh/api/films/2.json",
+    "https://sw.simplr.sh/api/films/3.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "species": [],
+  "vehicles": [
+    "https://sw.simplr.sh/api/vehicles/14.json",
+    "https://sw.simplr.sh/api/vehicles/30.json"
+  ],
+  "starships": [
+    "https://sw.simplr.sh/api/starships/12.json",
+    "https://sw.simplr.sh/api/starships/22.json"
+  ],
+  "created": "2014-12-09T13:50:51.644000Z",
+  "edited": "2014-12-20T21:17:56.891000Z",
+  "url": "https://sw.simplr.sh/api/people/1.json"
+}

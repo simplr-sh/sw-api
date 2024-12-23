@@ -1,0 +1,27 @@
+{
+  "name": "Naboo fighter",
+  "model": "N-1 starfighter",
+  "manufacturer": "Theed Palace Space Vessel Engineering Corps",
+  "cost_in_credits": "200000",
+  "length": "11",
+  "max_atmosphering_speed": "1100",
+  "crew": "1",
+  "passengers": "0",
+  "cargo_capacity": "65",
+  "consumables": "7 days",
+  "hyperdrive_rating": "1.0",
+  "MGLT": "unknown",
+  "starship_class": "Starfighter",
+  "pilots": [
+    "https://sw.simplr.sh/api/people/11.json",
+    "https://sw.simplr.sh/api/people/35.json",
+    "https://sw.simplr.sh/api/people/60.json"
+  ],
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/5.json"
+  ],
+  "created": "2014-12-19T17:39:17.582000Z",
+  "edited": "2014-12-20T21:23:49.917000Z",
+  "url": "https://sw.simplr.sh/api/starships/39.json"
+}

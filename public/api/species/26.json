@@ -1,0 +1,20 @@
+{
+  "name": "Kel Dor",
+  "classification": "unknown",
+  "designation": "sentient",
+  "average_height": "180",
+  "skin_colors": "peach, orange, red",
+  "hair_colors": "none",
+  "eye_colors": "black, silver",
+  "average_lifespan": "70",
+  "homeworld": "https://sw.simplr.sh/api/planets/49.json",
+  "language": "Kel Dor",
+  "people": ["https://sw.simplr.sh/api/people/58.json"],
+  "films": [
+    "https://sw.simplr.sh/api/films/4.json",
+    "https://sw.simplr.sh/api/films/6.json"
+  ],
+  "created": "2014-12-20T10:49:21.692000Z",
+  "edited": "2014-12-20T21:36:42.191000Z",
+  "url": "https://sw.simplr.sh/api/species/26.json"
+}
