@@ -1,5 +1,5 @@
 <div align="center">
-    <img style="vertical-align: middle;" width="128" height="128" src="./sw-logo.png">
+    <img style="vertical-align: middle;" width="128" height="128" src="./readme-assets/sw-logo.png">
     <h1 align="center">
       <a href="https://github.com/simplr-sh/sw-api">
         Simplr SWAPI
@@ -7,9 +7,11 @@
     </span>
 </div>
 
-The fastest, most reliable, and forever free Star Wars API service.
+### The fastest, most reliable, and forever free Star Wars API service.
 
-![Swapi Github Social Preview](/simplr-swapi-github-social-preview.jpg)
+<img style="vertical-align: middle;" height="128" src="./readme-assets/swapi-banner.png" >
+
+![Swapi Github Social Preview](./readme-assets/simplr-swapi-github-social-preview.jpg)
 
 ## Features
 
