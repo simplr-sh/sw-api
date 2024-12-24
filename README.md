@@ -138,7 +138,7 @@ GET /api/starships/all.json
 
 # Get specific starship
 GET /api/starships/{id}.json
-# Example: https://sw.simplr.sh/api/starships/1.json
+# Example: https://sw.simplr.sh/api/starships/3.json
 ```
 
 #### Vehicles
@@ -149,7 +149,7 @@ GET /api/vehicles/all.json
 
 # Get specific vehicle
 GET /api/vehicles/{id}.json
-# Example: https://sw.simplr.sh/api/vehicles/1.json
+# Example: https://sw.simplr.sh/api/vehicles/4.json
 ```
 
 
