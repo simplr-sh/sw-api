@@ -9,7 +9,7 @@
 
 ### The fastest, most reliable, and forever free Star Wars API service.
 
-<img style="vertical-align: middle;" height="128" src="./readme-assets/swapi-banner.png" >
+<img style="vertical-align: middle;" src="./readme-assets/swapi-banner.png" >
 
 ![Swapi Github Social Preview](./readme-assets/simplr-swapi-github-social-preview.jpg)
 
