@@ -1,6 +1,6 @@
 <h1 align="left">
     <img style="vertical-align: middle;" width="64" height="64" src="./sw-logo.png">
-    <span>Simplr SWAPI</span>
+    <a href="https://github.com/simplr-sh/sw-api">Simplr SWAPI</a>
 </h1>
 
 The fastest, most reliable, and forever free Star Wars API service.
